@@ -8,7 +8,7 @@ import bullet
 import supply
 from random import *
 
-
+# sdsk d
 pygame.init()
 pygame.mixer.init()
 
